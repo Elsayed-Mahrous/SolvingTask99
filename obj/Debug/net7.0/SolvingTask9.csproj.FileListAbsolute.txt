@@ -1,0 +1,15 @@
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\bin\Debug\net7.0\SolvingTask9.exe
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\bin\Debug\net7.0\SolvingTask9.deps.json
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\bin\Debug\net7.0\SolvingTask9.runtimeconfig.json
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\bin\Debug\net7.0\SolvingTask9.dll
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\bin\Debug\net7.0\SolvingTask9.pdb
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.csproj.AssemblyReference.cache
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.AssemblyInfoInputs.cache
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.AssemblyInfo.cs
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.csproj.CoreCompileInputs.cache
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.dll
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\refint\SolvingTask9.dll
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.pdb
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\SolvingTask9.genruntimeconfig.cache
+C:\Users\Elsayed\source\repos\Hallo world\SolvingTask9\obj\Debug\net7.0\ref\SolvingTask9.dll
